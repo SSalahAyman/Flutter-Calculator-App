@@ -122,7 +122,7 @@ class _HomePageState extends State<HomePage> {
                       },
                       textcolor: Colors.white,
                       textstring: "=",
-                      backgroundcolor: Colors.deepPurple);
+                      backgroundcolor: Colors.red);
                 }
                 /**
                    * numbers and operators buttons 
